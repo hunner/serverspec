@@ -4,6 +4,7 @@ require 'etc'
 require 'serverspec/helper/ssh'
 require 'serverspec/helper/exec'
 require 'serverspec/helper/puppet'
+require 'serverspec/helper/rspec_system'
 
 # Command helpers
 require 'serverspec/helper/redhat'
